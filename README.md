@@ -30,12 +30,6 @@ The project is finish and i'm moving on to other projets. i'm open to propositio
   />
 </a>
 
-<a href="webe.federico@gmail.com" target="_blank">
-  <img
-    alt="Gmail"
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-  />
-</a>
 
 
 
