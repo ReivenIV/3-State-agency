@@ -1,5 +1,5 @@
 # 3.-State-Agency
-##  With CSS and flexbox
+##  With CSSgrid and flexbox
 
 #### Real State agency:
 The idea here it was to create a nice / responsive landing page and then some simple diferent pages like contact, profil of the agency and a gallery of the houses they are selling. 
